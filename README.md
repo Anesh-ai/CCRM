@@ -1,4 +1,4 @@
-CCRM-Campus Course and Record Manager
+ CCRM-Campus Course and Record Manager
 
 Name: Anesh
 Registration Number: 24BCE10373
