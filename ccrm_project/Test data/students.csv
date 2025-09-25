@@ -1,0 +1,6 @@
+id,regNo,fullName,email,status
+1,REG001,John Doe,john.doe@example.com,ACTIVE
+2,REG002,Jane Smith,jane.smith@example.com,ACTIVE
+3,REG003,Alex Johnson,alex.johnson@example.com,INACTIVE
+4,REG004,Emily Davis,emily.davis@example.com,ACTIVE
+5,REG005,Michael Brown,michael.brown@example.com,ACTIVE
