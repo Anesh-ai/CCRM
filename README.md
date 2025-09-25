@@ -1,4 +1,4 @@
- CCRM-Campus Course and Record Manager
+CCRM-Campus Course and Record Manager
 
 Name: Anesh
 Registration Number: 24BCE10373
@@ -134,7 +134,7 @@ Eclipse IDE=
 <img width="1564" height="1132" alt="3" src="https://github.com/user-attachments/assets/51ab6e58-855b-47a9-bcd4-3bb76283ac4c" />
 <img width="1920" height="1020" alt="4" src="https://github.com/user-attachments/assets/3b5e28e9-d455-4998-a983-51df33e820e2" />
 
-Acknowledgments:
+*Acknowledgments:
 
 (1)Java Documentation: Oracle official Java tutorials and documentation
 (2)Design Patterns: Gang of Four Design Patterns reference
